@@ -2,10 +2,6 @@
 	<img src="preview.jpg"/>
 </p>
 
-<p align="center">
-	<img src="screenshot.png"/>
-</p>
-
 Source code of http://jainvaibhav23.github.io
 
 ## Acknowledgements
