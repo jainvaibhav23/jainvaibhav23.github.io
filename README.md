@@ -6,7 +6,7 @@
 	<img src="screenshot.png"/>
 </p>
 
-Source code of http://kbaquri.github.io
+Source code of http://jainvaibhav23.github.io
 
 ## Acknowledgements
 * ['Stars' Background Animation](http://codepen.io/TheRealAlan/pen/gzqsy)
